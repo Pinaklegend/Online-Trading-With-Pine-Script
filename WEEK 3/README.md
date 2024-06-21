@@ -1,1 +1,1 @@
-
+Prepare a document that explains any two technical indicators of your choice and analyze them with respect to a stock of your choice. You will need to implement these indicators using Pine Script on TradingView and be prepared to explain the code in detail later on. Additionally, you should explore different technical indicators beyond the ones you include in your document. Feel free to refer to the video sent earlier.
